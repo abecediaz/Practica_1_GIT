@@ -1,0 +1,11 @@
+commit e0cd672f39dc033e55e0ac048f036790f705ef89 (HEAD -> master, origin/yo++, origin/master, yo++)
+Author: abecediaz <abecediaz@gmail.com>
+Date:   Tue Apr 2 23:27:48 2024 -0300
+
+    Cambios en el archivo arion.txt
+
+commit d7ba11ca08d3343256ca5979b8af16f820dc16c9
+Author: abecediaz <abecediaz@gmail.com>
+Date:   Tue Apr 2 23:26:22 2024 -0300
+
+    Inicialización de repositorio y creación de archivos txt.
